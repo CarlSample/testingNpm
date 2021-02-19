@@ -6,3 +6,8 @@ patch:
   'npm:tunnel-agent:20170305':
     - autoless > less > request > tunnel-agent:
         patched: '2020-11-19T07:33:27.302Z'
+  'npm:mime:20170907':
+    - autoless > less > mime:
+        patched: '2021-02-19T14:48:17.428Z'
+    - autoless > less > request > form-data > mime:
+        patched: '2021-02-19T14:48:17.428Z'
